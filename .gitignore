@@ -1,3 +1,4 @@
 storage/config.json
+storage/wechat.json
 storage/orders/*.json
 storage/logs/*.log
